@@ -1,3 +1,5 @@
+#Based on a tutorial by coderslegacy.com (https://coderslegacy.com/python/pygame-platformer-game-development/)
+
 #----------Initalization and Constants
 import pygame
 from pygame.locals import *
